@@ -8,7 +8,7 @@
 
 ### About Me
 <p align="left">
-  Control and Automation Engineering student.
+  Control and Automation Engineering student.<br>
   Developer focused on creating impactful and scalable solutions.<br>
   Currently exploring [Flutter, Python for AI, etc.]<br>
 </p>
