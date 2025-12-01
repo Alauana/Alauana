@@ -29,13 +29,26 @@
 ---
 
 ### GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alauana&show_icons=true&hide_border=false&title_color=FF0789&icon_color=7E4071&text_color=c9d1d9&bg_color=2A0134&border_radius=10&border_color=7E4071" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alauana&layout=compact&hide_border=false&title_color=FF0789&text_color=c9d1d9&bg_color=2A0134&border_radius=10&border_color=7E4071" />
+<p>
+  <!-- Followers -->
+  <img 
+    src="https://img.shields.io/github/followers/Alauana?color=FF0789&label=Seguidores&logo=github&style=for-the-badge" 
+    alt="GitHub Followers" 
+  />
+
+  <!-- Stars -->
+  <img 
+    src="https://img.shields.io/github/stars/Alauana?color=FF0789&label=Stars&logo=github&style=for-the-badge" 
+    alt="GitHub Stars" 
+  />
+
+  <!-- Linguagem mais usada no perfil -->
+  <img 
+    src="https://img.shields.io/github/languages/top/Alauana/Alauana?color=FF0789&label=Linguagem%20Top&logo=code&style=for-the-badge" 
+    alt="Top Language" 
+  />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alauana&theme=dark&background=2A0134&stroke=7E4071&ring=FF0789&fire=FF0789&currStreakNum=FF0789&sideNums=7E4071&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true&border_radius=10" />
-</p>
+
 
 ---
 
